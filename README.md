@@ -33,11 +33,11 @@
  
 ```
 ## Menu version-v1.0
-![DrSINAWAY](https://raw.githubusercontent.com/drsinaway/Screenshot/main/Screen%20shot/v1/v1.png?token=GHSAT0AAAAAACC4RY55RJ2WHGI2EWN3AKXUZDVDC2Q)
+![DrSINAWAY](https://raw.githubusercontent.com/drsinaway/DDos--Attack/main/Screenshot/v1/v1.png)
 
-![DrSINAWAY](https://raw.githubusercontent.com/drsinaway/Screenshot/main/Screen%20shot/v1/v13.png?token=GHSAT0AAAAAACC4RY55KS4RF4HKPDRPUXBWZDVDETA)
+![DrSINAWAY](https://raw.githubusercontent.com/drsinaway/DDos--Attack/main/Screenshot/v1/v13.png)
 
-![DrSINAWAY](https://raw.githubusercontent.com/drsinaway/Screenshot/main/Screen%20shot/v1/v12.png?token=GHSAT0AAAAAACC4RY54DP27ETCGFDDE34ZUZDVDFBA)
+![DrSINAWAY](https://raw.githubusercontent.com/drsinaway/DDos--Attack/main/Screenshot/v1/v12.png)
 
 
 ## Methods
@@ -71,11 +71,11 @@
  - .proxies| Counts the number of proxies in the proxy.txt file
 ```
 ## Menu version-v2.0
-![DrSINAWAY](https://raw.githubusercontent.com/drsinaway/Screenshot/main/Screen%20shot/v2/v2.png?token=GHSAT0AAAAAACC4RY55HFD3WDZBVV45A454ZDVDGIQ)
+![DrSINAWAY](https://raw.githubusercontent.com/drsinaway/DDos--Attack/main/Screenshot/v2/v2.png)
 
-![DrSINAWAY](https://raw.githubusercontent.com/drsinaway/Screenshot/main/Screen%20shot/v2/v21.png?token=GHSAT0AAAAAACC4RY54IUVROFVCLOX7SZ2QZDVDG6A)
+![DrSINAWAY](https://github.com/drsinaway/DDos--Attack/blob/main/Screenshot/v2/v21.png)
 
-![DrSINAWAY](https://raw.githubusercontent.com/drsinaway/Screenshot/main/Screen%20shot/v2/v23.png?token=GHSAT0AAAAAACC4RY556JBNNBYTJUSTOX3CZDVDHJA)
+![DrSINAWAY](https://raw.githubusercontent.com/drsinaway/DDos--Attack/main/Screenshot/v2/v23.png)
 
 
 ## Methods
@@ -110,11 +110,11 @@
 ```
 
 ## Menu version-v3.0
-![DrSINAWAY](https://raw.githubusercontent.com/drsinaway/Screenshot/main/Screen%20shot/v3/v3.png?token=GHSAT0AAAAAACC4RY54LK2LG3IB3H5K4DXWZDVDIAQ)
+![DrSINAWAY](https://raw.githubusercontent.com/drsinaway/DDos--Attack/main/Screenshot/v3/v3.png)
 
-![DrSINAWAY](https://raw.githubusercontent.com/drsinaway/Screenshot/main/Screen%20shot/v3/v32.png?token=GHSAT0AAAAAACC4RY55HJRXOTLIOCQJOSQCZDVDIPQ)
+![DrSINAWAY](https://github.com/drsinaway/DDos--Attack/blob/main/Screenshot/v3/v32.png)
 
-![DrSINAWAY](https://raw.githubusercontent.com/drsinaway/Screenshot/main/Screen%20shot/v3/v33.png?token=GHSAT0AAAAAACC4RY55FHTSJ3USUCVJPWY4ZDVDI3Q)
+![DrSINAWAY](https://raw.githubusercontent.com/drsinaway/DDos--Attack/main/Screenshot/v3/v33.png)
 
 
 ## Methods
