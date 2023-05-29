@@ -12,10 +12,11 @@
  
  DDoS Attack Panel includes CloudFlare Bypass (UAM, CAPTCHA, BFM, etc..)<br/><br/>
  
- Don't attack any websites you don't own it<br/>
- This was created for educational purposes<br/>
- All responsibilities and disadvantages of using this program is for the user.
+ Layer 7 Layer 4 <br/>
+You can buy the tool now you will reach with me through the telegram<br/>
  
+ ## Contacts:
+[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://telegram.me/VIP0_VIP)
 
 ## Language</br>
 
