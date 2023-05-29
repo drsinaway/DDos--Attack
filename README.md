@@ -13,7 +13,7 @@
  DDoS Attack Panel includes CloudFlare Bypass (UAM, CAPTCHA, BFM, etc..)<br/><br/>
  
  Layer 7 Layer 4 <br/>
-You can buy the tool now you will reach with me through the telegram<br/>
+For me to buy, you can contact me via telegram<br/>
  
  ## Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://telegram.me/VIP0_VIP)
