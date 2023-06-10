@@ -16,7 +16,7 @@
 For me to buy, you can contact me via telegram<br/>
  
  ## Contacts:
-[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://telegram.me/VIP0_VIP)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://telegram.me/drsinaway)
 
 ## Language</br>
 
